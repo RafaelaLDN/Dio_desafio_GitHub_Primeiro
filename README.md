@@ -1,2 +1,2 @@
-# Dio_desafio_GitHub_Primeiro
+# Desafio Git/GiHub da Dio
 Desafio do projeto Git/GitHub
